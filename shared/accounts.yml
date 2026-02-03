@@ -1,4 +1,4 @@
-locale: ar-EG
+locale: ar-AR
 translations:
     - key: accounts.error_incorrect_password
       t: كلمة سر غير صحيحة
