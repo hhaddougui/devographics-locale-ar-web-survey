@@ -1,6 +1,6 @@
 # locale-ar-EG
 
-This repo contains the Arabic language files for the State of JS/CSS/etc. You can view a list of [all the locales repos here](https://github.com/StateOfJS/?q=locale-&type=&language=&sort=).
+This repository contains the Arabic language files for the Devographics developer surveys (including State of JS, CSS, HTML, AI, and more). You can view a list of [all the locales repos here](https://github.com/orgs/Devographics/repositories?q=locale-&type=all&language=&sort=name).
 
 ## How To Help
 
@@ -14,27 +14,30 @@ I will then give you maintainer rights over a repo containing all the translatio
 
 You can either browse the survey-taking app, survey results site, etc. and find untranslated strings this way, or else use our API to get extra data such as the completion percentage for a locale or a list of all the untranslated strings: 
 
-- https://graphiql.stateofjs.com/
+- https://graphiql.devographics.com/
 
 Here is a sample query: 
 
 ```graphql
 query GetLocaleData {
-  locale(localeId: "ru-RU") {
+  locale(localeId: ar_EG) {
     completion
     totalCount
     translatedCount
     translators
-    untranslatedKeys
+    untranslatedStrings {
+      key
+      t
+    }
   }
 }
 ```
 
 #### 3. Getting Credit
 
-Every translator will be credited on any site that makes use of the translations, starting with the survey-taking app. While this will eventually be automated via the GitHub API, for now you can add your name here:
+Every translator will be credited on any site that makes use of the translations, starting with the survey-taking app. In order to receive credit, add your GitHub username to the `translators` array in `config.yml` file:
 
-- https://github.com/StateOfJS/Monorepo/blob/main/api/src/data/locales.yml
+- https://github.com/Devographics/locale-ar-EG/blob/main/config.yml
 
 #### 4. Pushing Your Changes Live
 
@@ -72,7 +75,7 @@ These strings appear in both.
 
 ## Joining Translation Teams
 
-It's recommended you join the [translation team](https://github.com/orgs/StateOfJS/teams/translators/teams) for the language you want to translate.
+It's recommended you join the [translation team](https://github.com/orgs/Devographics/teams/ar-eg) for the language you want to translate.
 
 ## Local Development
 
