@@ -1,4 +1,5 @@
-id: ar-EG
+id: ar-AR
 label: اَلْعَرَبِيَّةُ
-translators: ["YoussefMo7amed"]
+direction: rtl
+translators: ["YoussefMo7amed", "hhaddougui"]
 active: false

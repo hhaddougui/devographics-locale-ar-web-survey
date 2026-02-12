@@ -1,4 +1,4 @@
-# locale-ar-EG
+# locale-ar-AR
 
 This repository contains the Arabic language files for the Devographics developer surveys (including State of JS, CSS, HTML, AI, and more). You can view a list of [all the locales repos here](https://github.com/orgs/Devographics/repositories?q=locale-&type=all&language=&sort=name).
 
@@ -51,15 +51,16 @@ These strings are related to the app that you use to fill out the actual survey.
 
 - `surveys.yml`
 - `accounts.yml`
-- `state_of_js_2020_survey.yml`
+- `state_of_js.yml`
+- `state_of_css.yml`
 
 #### Results App
 
 These strings only appear in the static site that displays the survey results and stats.
 
 - `results.yml`
-- `state_of_css_2020.yml`
-- `state_of_js_2020.yml`
+- `js2020.yml`
+- `css2020.yml`
 
 #### Both
 
