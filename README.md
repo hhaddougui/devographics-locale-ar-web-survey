@@ -1,4 +1,4 @@
-# locale-ar-AR
+# locale-ar-EG
 
 This repository contains the Arabic language files for the Devographics developer surveys (including State of JS, CSS, HTML, AI, and more). You can view a list of [all the locales repos here](https://github.com/orgs/Devographics/repositories?q=locale-&type=all&language=&sort=name).
 

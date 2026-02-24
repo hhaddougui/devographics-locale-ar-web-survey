@@ -1,9 +1,0 @@
-locale: ar-AR
-translations:
-  ###########################################################################
-  # Introduction
-  ###########################################################################
-
-  - key: introduction.css2024
-    t: |
-      CSS continues to evolve at a rapid pace.

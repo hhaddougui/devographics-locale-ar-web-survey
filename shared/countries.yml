@@ -1,0 +1,176 @@
+# تتضمن هذه القائمة فقط أكبر خمسين دولة في العالم من حيث عدد السكان,
+# يمكننا إضافة المزيد من الدول إذا ظهرت في الاستطلاع. أنظر القائمة الكاملة للدول أدناه
+locale: ar-EG
+translations:
+  - key: options.country.AFG
+    t: أفغانستان
+  - key: options.country.DZA
+    t: الجزائر
+  - key: options.country.ARG      
+    t: الأرجنتين
+  - key: options.country.ARM  
+    t: أرمينيا
+  - key: options.country.AUS
+    t: أستراليا
+  - key: options.country.AUT
+    t: النمسا   
+  - key: options.country.BGD    
+    t: بنغلاديش
+  - key: options.country.BEL
+    t: بلجيكا
+  - key: options.country.BLR
+    t:  بيلاروسيا
+  - key: options.country.BIH
+    t: البوسنة و الهرسك
+  - key: options.country.BRA
+    t: البرازيل
+  - key: options.country.BGR
+    t: بلغاريا   
+  - key: options.country.CAN
+    t: كندا
+  - key: options.country.CRI
+    t: كوستاريكا
+  - key: options.country.HRV
+    t: كرواتيا
+  - key: options.country.CHE
+    t: سويسرا
+  - key: options.country.CHL
+    t: تشيلي
+  - key: options.country.CHN
+    t: الصين
+  - key: options.country.COD
+    t: جمهورية الكونغو الديمقراطية
+  - key: options.country.COL
+    t: كولومبيا
+  - key: options.country.CIV
+    t: ساحل العاج
+  - key: options.country.CYP
+    t: قبرص
+  - key: options.country.CZE
+    t: تشيكيا
+  - key: options.country.DEU
+    t: ألمانيا
+  - key: options.country.GRC
+    t: اليونان
+  - key: options.country.DNK
+    t: الدنمارك
+  - key: options.country.EGY
+    t: مصر
+  - key: options.country.EST
+    t: إستونيا
+  - key: options.country.ETH
+    t: إثيوبيا
+  - key: options.country.FIN
+    t: فنلندا
+  - key: options.country.FRA
+    t: فرنسا
+  - key: options.country.GEO
+    t: جورجيا
+  - key: options.country.GHA
+    t: غانا
+  - key: options.country.HKG
+    t: هونغ كونغ
+  - key: options.country.HUN
+    t: المجر
+  - key: options.country.IND
+    t: الهند    
+  - key: options.country.IDN
+    t: إندونيسيا
+  - key: options.country.IRL
+    t: أيرلندا
+  - key: options.country.ISL
+    t: أيسلندا
+  - key: options.country.IRN
+    t: إيران
+  - key: options.country.IRQ
+    t: العراق
+  - key: options.country.ITA
+    t: إيطاليا
+  - key: options.country.ISR
+    t: إسرائيل
+  - key: options.country.JPN
+    t: اليابان
+  - key: options.country.KEN
+    t: كينيا
+  - key: options.country.LTU
+    t: لتوانيا
+  - key: options.country.LVA
+    t: لاتفيا
+  - key: options.country.LUX
+    t: لوكمسبورغ
+  - key: options.country.MDA
+    t: مولدوفا
+  - key: options.country.MEX
+    t: المكسيك
+  - key: options.country.MMR
+    t: ميانمار
+  - key: options.country.NPL
+    t: نيبال
+  - key: options.country.MKD
+    t: مقدونيا الشمالية
+  - key: options.country.NOR
+    t: النرويج
+  - key: options.country.NLD
+    t: هولندا
+  - key: options.country.NGA
+    t: نيجيريا
+  - key: options.country.NZL
+    t: نيوزيلندا
+  - key: options.country.POL
+    t: بولندا
+  - key: options.country.PRT
+    t: البرتغال
+  - key: options.country.PAK
+    t: باكستان
+  - key: options.country.PER
+    t: بيرو
+  - key: options.country.PHL
+    t: الفلبين
+  - key: options.country.ROU
+    t: رومانيا
+  - key: options.country.RUS
+    t: روسيا
+  - key: options.country.SAU
+    t: السعودية
+  - key: options.country.SRB
+    t: صربيا
+  - key: options.country.SGP
+    t: سنغافورة
+  - key: options.country.SVK
+    t: سلوفاكيا
+  - key: options.country.SVN
+    t: سلوفينيا
+  - key: options.country.ZAF
+    t: جنوب أفريقيا
+  - key: options.country.KOR
+    t: كوريا الجنوبية
+  - key: options.country.ESP
+    t: إسبانيا
+  - key: options.country.SWE
+    t: السويد
+  - key: options.country.TWN
+    t: تايوان
+  - key: options.country.TZA
+    t: تانزانيا
+  - key: options.country.THA
+    t: تايلاند
+  - key: options.country.TUR
+    t: تركيا
+  - key: options.country.UGA
+    t: أوغندا
+  - key: options.country.UKR
+    t: أوكرانيا
+  - key: options.country.URY
+    t: أوروغواي
+  - key: options.country.ARE
+    t: الإمارات العربية المتحدة
+  - key: options.country.GBR
+    t: المملكة المتحدة
+  - key: options.country.SCT
+    t: اسكتلندا
+  - key: options.country.USA
+    t: الولايات المتحدة الأمريكية
+  - key: options.country.VEN  
+    t: فنزويلا
+  - key: options.country.VNM
+    t: فيتنام
